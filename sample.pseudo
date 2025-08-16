@@ -1,0 +1,11 @@
+SET x = 5
+PRINT x
+IF x > 3 THEN
+  PRINT x
+ENDIF
+SET y = 2
+ADD x, y
+PRINT x
+LOOP 3 TIMES
+  PRINT x
+ENDLOOP
